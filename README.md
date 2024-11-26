@@ -98,7 +98,6 @@ By enabling accurate and early disease detection, this project contributes to:
 
 ## 7. Significant Outcomes and Applications 
 
-### **Key Highlights**  
 1. **End-to-End Implementation**: Includes data preprocessing, model design, training, and evaluation.  
 2. **Scalable Solution**: Adaptable for use in agricultural policies and commercial farming.  
 3. **Business-Driven Impact**: Directly addresses crop management challenges, enhancing productivity and profitability.  
